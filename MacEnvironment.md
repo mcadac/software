@@ -8,3 +8,10 @@
   ```
   brew cask install keepassx
   ```
+3. Install Git
+  ```
+  brew install git
+  ```
+4. Install Postgresql
+5. Install Intellij
+
