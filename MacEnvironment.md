@@ -25,5 +25,9 @@ Host *
 HostkeyAlgorithms +ssh-dss
 PubkeyAcceptedKeyTypes +ssh-dss
 ```
+7. Connect to server using ssh 
+```
+ssh -p port host
+```
 
 
