@@ -14,4 +14,16 @@
   ```
 4. Install Postgresql
 5. Install Intellij
+6. Enable ssh connections
+
+```
+1. system preferences > sharing > remote login
+
+Create a file : ~/.ssh/config
+
+Host *
+HostkeyAlgorithms +ssh-dss
+PubkeyAcceptedKeyTypes +ssh-dss
+```
+
 
