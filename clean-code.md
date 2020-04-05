@@ -124,5 +124,6 @@
 
 
 ##  References
-- https://dev.to/patferraggi/5-clean-code-techniques-you-can-start-doing-today-2ifh
-- https://www.youtube.com/watch?v=NeXQEJNWO5w
+-   https://dev.to/patferraggi/5-clean-code-techniques-you-can-start-doing-today-2ifh
+-   https://www.youtube.com/watch?v=NeXQEJNWO5w
+-   https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
