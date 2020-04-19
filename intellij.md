@@ -1,10 +1,10 @@
 # Plugins
 
-CheckStyle-IDEA    
-CamelCase
-Code Iris
-QAPlug
-    Findbugs
-Multirun
-JSON Viewer
-Grazie
+-   CheckStyle-IDEA    
+-   CamelCase
+-   Code Iris
+-   QAPlug
+    -   Findbugs
+-   Multirun
+-   JSON Viewer
+-   Grazie
