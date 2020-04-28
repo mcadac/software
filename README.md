@@ -6,6 +6,8 @@ Documentation about different topics
 3.  Git tips [examples and contents](https://github.com/mcadac/software/blob/master/git.md)
 4.  Jenkins [Tips and examples](https://github.com/mcadac/software/blob/master/jenkins.md)
 5.  Intellij
+6.  Patterns
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
+- DOO: https://martinfowler.com/articles/domain-oriented-observability.html
