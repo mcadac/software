@@ -11,4 +11,4 @@ Documentation about different topics
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 - DOO: https://martinfowler.com/articles/domain-oriented-observability.html
-- Liveness and readness (Spring support): https://github.com/spring-projects/spring-boot/issues/14022
+- Liveness and readness (Spring support): https://github.com/spring-projects/spring-boot/issues/14022, https://docs.spring.io/spring-boot/docs/2.3.0.BUILD-SNAPSHOT/reference/html/spring-boot-features.html#boot-features-application-availability-managing
