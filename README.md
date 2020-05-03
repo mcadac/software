@@ -7,6 +7,7 @@ Documentation about different topics
 4.  Jenkins [Tips and examples](https://github.com/mcadac/software/blob/master/jenkins.md)
 5.  Intellij
 6.  Patterns
+7.  Architecture [references](https://github.com/mcadac/software/blob/master/architecture.md)
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
