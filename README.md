@@ -8,6 +8,7 @@ Documentation about different topics
 5.  Intellij
 6.  Patterns
 7.  Architecture [references](https://github.com/mcadac/software/blob/master/architecture.md)
+8.  Automated testing.[References] (https://martinfowler.com/articles/microservice-testing/#testing-component-introduction)
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
