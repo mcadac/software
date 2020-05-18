@@ -9,8 +9,9 @@ Documentation about different topics
 6.  Patterns
 7.  Architecture [references](https://github.com/mcadac/software/blob/master/architecture.md)
 8.  Automated testing.[References] (https://martinfowler.com/articles/microservice-testing/#testing-component-introduction)
+9.  Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
-- DOO: https://martinfowler.com/articles/domain-oriented-observability.html
+- Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
 - Liveness and readness (Spring support): https://github.com/spring-projects/spring-boot/issues/14022, https://docs.spring.io/spring-boot/docs/2.3.0.BUILD-SNAPSHOT/reference/html/spring-boot-features.html#boot-features-application-availability-managing
