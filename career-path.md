@@ -25,6 +25,10 @@
         -   Reasoning for picking.
         -   List of roles from each site.
 
-
-
         -   Wwhat is the mean of progress for an engineer?
+        
+### Reference:
+
+    -   https://labs.spotify.com/2016/02/08/technical-career-path/
+    -   https://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify
+
