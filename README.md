@@ -16,3 +16,4 @@ Documentation about different topics
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 - Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
 - Liveness and readness (Spring support): https://github.com/spring-projects/spring-boot/issues/14022, https://docs.spring.io/spring-boot/docs/2.3.0.BUILD-SNAPSHOT/reference/html/spring-boot-features.html#boot-features-application-availability-managing
+- Testing @Configuration class in Spring Boot: https://dev.to/stack-labs/how-to-test-configuration-class-in-spring-boot-16ai
