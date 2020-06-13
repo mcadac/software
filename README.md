@@ -11,6 +11,7 @@ Documentation about different topics
 8.  Automated testing.[References] (https://martinfowler.com/articles/microservice-testing/#testing-component-introduction)
 9.  Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
 10. Logging. [reference].(https://github.com/mcadac/software/blob/master/logging.md)
+11. Chaos. [reference].(https://github.com/mcadac/software/blob/master/chaos.md)
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
