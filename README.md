@@ -13,6 +13,7 @@ Documentation about different topics
 10. Logging. [reference].(https://github.com/mcadac/software/blob/master/logging.md)
 11. Chaos. [reference].(https://github.com/mcadac/software/blob/master/chaos.md)
 12. Microservices.[reference].(https://github.com/mcadac/software/blob/master/microservices.md)
+13. Cascading failures. [reference].(https://github.com/mcadac/software/blob/master/Cascading-failures.md)
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
