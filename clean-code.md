@@ -119,7 +119,10 @@
 -   Don't add gratuitous context
     -   The names accountAddress and customerAddress are fine names for instances of the class Address
     but could be poor name for classess.
-    -   
+-   Variables with long scope should have long names.
+-   Variables with short little scopes can be abbreviated down even just to one letter.
+-   Functions with highly visible scopes, should have short, convenient names. (public functions)
+-   Private functions should have long explanatory name.
 
 
 
