@@ -128,14 +128,14 @@
 
 Functions:
 
-    -   Small functions between 4 to 6 lines is okay.
-    -   Functions well named inside classes well named and these clasess live in namesapces well named.
-    -   readiability first.
-    -   keep your room clean (our team).
-    -   Functions should do just one thing.
-    -   If the function can be split in other small functions, this one is doing more than one thing.
-        -   Extract, extract, extract functions from another one.
-    -   Refactoring book.
+-   Small functions between 4 to 6 lines is okay.
+-   Functions well named inside classes well named and these clasess live in namesapces well named.
+-   readiability first.
+-   keep your room clean (our team).
+-   Functions should do just one thing.
+-   If the function can be split in other small functions, this one is doing more than one thing.
+    -   Extract, extract, extract functions from another one.
+-   Refactoring book.
 
 
 
