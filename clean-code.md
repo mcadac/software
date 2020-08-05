@@ -136,6 +136,10 @@ Functions:
 -   If the function can be split in other small functions, this one is doing more than one thing.
     -   Extract, extract, extract functions from another one.
 -   Refactoring book.
+-   Function shouldn't have more than three arguments.
+-   Don't use boolean as argument of a function... why?... because that means the functions does two things, the firts one when the boolean agument is true, and the second one when the boolean argument is false.
+
+-   Step down rule: First public methods and private methods after them.
 
 
 
