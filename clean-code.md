@@ -140,7 +140,8 @@ Functions:
 -   Don't use boolean as argument of a function... why?... because that means the functions does two things, the firts one when the boolean agument is true, and the second one when the boolean argument is false.
 
 -   Step down rule: First public methods and private methods after them.
--   ![management-dependency](/images/management-dependency.jpg)
+-   Management dependency. Avoid use swicht statement with polymorphism (OO).  
+![management-dependency](/images/management-dependency.jpg)
 
 
 ##  References
