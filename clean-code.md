@@ -6,7 +6,7 @@
 - Uncle Bob -> "One reason to change" -> If the code inside that function can change for different reasons, then it is doing more than one thing.
 - The reason we write functions is to decompose a larger concept into a set of smaller steps.
 
-## Chapter 1
+## Important stuff 
 
 -   We are artist when writting code.
 -   A code without unit test is not clean.
@@ -18,8 +18,9 @@
 -   One difference between a smart programmer and a professional programmer is that
     the professional understands that clarity is king. Professionals use their powers for good
     and write code that others can understand.
+-   Every team should have a standard code.
 
-## Chapter 2 - Meaningful names
+## Meaningful names
 
 -   The names should reveal intent.
 -   The name of a variable, function or class, should answer the next questions:
@@ -124,7 +125,7 @@
 -   Functions with highly visible scopes, should have short, convenient names. (public functions)
 -   Private functions should have long explanatory name.
 
-## Chapter 3 - Functions
+## Functions
 
 Functions:
 
