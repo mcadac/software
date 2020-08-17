@@ -145,6 +145,10 @@ Functions:
 -   Management dependency. Avoid use swicht statement with polymorphism (OO).  
 ![management-dependency](/images/management-dependency.jpg)
 
+-   If we need to put a comment to explain what the code does, probably, we should verify and validate the structure of the code, variable names, function names, and do a refactor one more time.
+-   The comments can be good on public methods, interfaces, or APIs in order to explain a little bit more what is the prupose of this one.
+-   Remove code or comments useless, if we need to go back, Git will help to do it.
+
 ## Independent deployment
 -   Identify when the polymorphism is really good for the system.
 -   Identify when and why you really need a swicht statement, this one should exist in a point where doesn't affect the idependent deployment.
