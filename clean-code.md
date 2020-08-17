@@ -149,10 +149,14 @@ Functions:
 -   The comments can be good on public methods, interfaces, or APIs in order to explain a little bit more what is the prupose of this one.
 -   Remove code or comments useless, if we need to go back, Git will help to do it.
 
-## Independent deployment
+## Independent deployment and boundaries
 -   Identify when the polymorphism is really good for the system.
 -   Identify when and why you really need a swicht statement, this one should exist in a point where doesn't affect the idependent deployment.
 -   Protection from new methods and types?
+-   (Application --> DB interface layer --> DB):
+    -   The application shouldn't depends on the layer.
+    -   The DB interface layer should depends on the application leve.
+    
 
 ##  References
 -   https://dev.to/patferraggi/5-clean-code-techniques-you-can-start-doing-today-2ifh
