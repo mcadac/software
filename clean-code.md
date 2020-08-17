@@ -152,7 +152,7 @@ Functions:
 ## Independent deployment
 -   Identify when the polymorphism is really good for the system.
 -   Identify when and why you really need a swicht statement, this one should exist in a point where doesn't affect the idependent deployment.
-
+-   Protection from new methods and types?
 
 ##  References
 -   https://dev.to/patferraggi/5-clean-code-techniques-you-can-start-doing-today-2ifh
