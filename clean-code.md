@@ -154,8 +154,8 @@ Functions:
 -   Identify when and why you really need a swicht statement, this one should exist in a point where doesn't affect the idependent deployment.
 -   Protection from new methods and types?
 -   (Application --> DB interface layer --> DB):
-    -   The application shouldn't depends on the layer.
-    -   The DB interface layer should depends on the application leve.
+    -   The application SHOULD NOT depends on the DB interface layer.
+    -   The DB interface layer SHOULD depends on the application leve.
     
 
 ##  References
