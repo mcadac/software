@@ -160,7 +160,11 @@ Functions:
 -   The database doesn't contain domain objects.
 -   Unit test reduces the fear to clean the code.
 -   Unit test keeps defects under control.
--   TDD is a discipline 
+-   TDD is a discipline -> It can improve the production code becuase it allowed that one be testable and descouple.
+    -   Write no production code except to pass a failing test.
+    -   Write only enough of a test to  demonstrate a failure.
+    -   Write only enough production code to pass the test.
+-   Production code should be testable.
     
 
 ##  References
