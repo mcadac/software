@@ -157,7 +157,10 @@ Functions:
     -   The application SHOULD NOT depends on the DB interface layer.
     -   The DB interface layer SHOULD depends on the application leve.
 -   The database tables are a data structure, they are so concrete and they can't be polyform. (They are data structre).
--   The database doesn't contain domain objects
+-   The database doesn't contain domain objects.
+-   Unit test reduces the fear to clean the code.
+-   Unit test keeps defects under control.
+-   TDD is a discipline 
     
 
 ##  References
