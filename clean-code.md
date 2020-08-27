@@ -165,6 +165,7 @@ Functions:
     -   Write only enough of a test to  demonstrate a failure.
     -   Write only enough production code to pass the test.
 -   Production code should be testable.
+-   The tests are important as the production code.
     
 
 ##  References
