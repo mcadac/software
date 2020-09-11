@@ -150,6 +150,7 @@ Functions:
 -   Remove code or comments useless, if we need to go back, Git will help to do it.
 
 ## Independent deployment and boundaries
+
 -   Identify when the polymorphism is really good for the system.
 -   Identify when and why you really need a swicht statement, this one should exist in a point where doesn't affect the idependent deployment.
 -   Protection from new methods and types?
@@ -167,6 +168,12 @@ Functions:
 -   Production code should be testable.
 -   The tests are important as the production code.
     
+##  Architecture
+
+-   Architecture: we can see the intend of the system.
+-   Use case: way how a user interact with the system to achieve an specific goal.
+-   If we wanna an delivery indepent architecture, we should start with delivery indepent uses cases. 
+-   Make use cases as asnostic as possible about delivery mechanisms, frameworks, data bases.
 
 ##  References
 -   https://dev.to/patferraggi/5-clean-code-techniques-you-can-start-doing-today-2ifh
