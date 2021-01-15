@@ -12,8 +12,11 @@ Documentation about different topics
 9.  Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
 10. Logging. [reference].(https://github.com/mcadac/software/blob/master/logging.md)
 11. Chaos. [reference].(https://github.com/mcadac/software/blob/master/chaos.md)
-12. Microservices.[reference].(https://github.com/mcadac/software/blob/master/microservices.md)
-13. Cascading failures. [reference].(https://github.com/mcadac/software/blob/master/Cascading-failures.md)
+
+Microservice:
+
+1. Microservices.[reference].(https://github.com/mcadac/software/blob/master/microservices.md)
+2. Cascading failures. [reference].(https://github.com/mcadac/software/blob/master/Cascading-failures.md)
 
 Reactive:
 
