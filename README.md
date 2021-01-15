@@ -15,6 +15,10 @@ Documentation about different topics
 12. Microservices.[reference].(https://github.com/mcadac/software/blob/master/microservices.md)
 13. Cascading failures. [reference].(https://github.com/mcadac/software/blob/master/Cascading-failures.md)
 
+Reactive:
+
+14. Intro to Reactive Functional Programming [reference].(https://medium.com/javarevisited/intro-to-reactive-functional-programming-d49e00365847)
+
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 - Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
