@@ -168,6 +168,12 @@ Functions:
 -   Production code should be testable.
 -   The tests are important as the production code.
     
+##  SOLID Principles
+### The prupose of SOLID design principles
+- To make code more maintainable
+- To make it esaier to extend the system with new functionality whitout breaking the existing ones.
+- To make the code easier to read and understand, thus spend less time figuring out what it does and more time actually developing the solution.
+- Introduced by Uncle Bob
 ##  Architecture
 
 -   Architecture: we can see the intend of the system.
