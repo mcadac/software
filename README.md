@@ -7,12 +7,12 @@ Documentation about different topics
 4.  Jenkins [Tips and examples](https://github.com/mcadac/software/blob/master/jenkins.md)
 5.  Intellij
 6.  Patterns
-7.  Architecture [references](https://github.com/mcadac/software/blob/master/architecture.md)
-8.  Automated testing.[References] (https://martinfowler.com/articles/microservice-testing/#testing-component-introduction)
-9.  Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
-10. Logging. [reference].(https://github.com/mcadac/software/blob/master/logging.md)
-11. Chaos. [reference].(https://github.com/mcadac/software/blob/master/chaos.md)
-12. Dependency hell:  https://en.wikipedia.org/wiki/Dependency_hell
+8.  Architecture [references](https://github.com/mcadac/software/blob/master/architecture.md)
+9.  Automated testing.[References] (https://martinfowler.com/articles/microservice-testing/#testing-component-introduction)
+10.  Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
+11. Logging. [reference].(https://github.com/mcadac/software/blob/master/logging.md)
+12. Chaos. [reference].(https://github.com/mcadac/software/blob/master/chaos.md)
+13. Dependency hell:  https://en.wikipedia.org/wiki/Dependency_hell
 
 Microservice:
 
@@ -22,6 +22,9 @@ Microservice:
 Reactive:
 
 14. Intro to Reactive Functional Programming [reference].(https://medium.com/javarevisited/intro-to-reactive-functional-programming-d49e00365847)
+
+Patterns:
+- Let it crash: https://dzone.com/articles/increasing-system-robustness
 
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
