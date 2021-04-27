@@ -4,3 +4,4 @@
 
 ## Engineer Manager
 - What Engineering Managers Should Do: https://www.youtube.com/watch?v=Q_bJVokYLRI
+- What Software Engineering manager should Do: https://ericmora.me/organigrama-agile/que-hace-un-software-engineering-manager
