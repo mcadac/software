@@ -174,6 +174,40 @@ Functions:
 - To make it esaier to extend the system with new functionality whitout breaking the existing ones.
 - To make the code easier to read and understand, thus spend less time figuring out what it does and more time actually developing the solution.
 - Introduced by Uncle Bob
+
+**Single Responsability:**
+-   A class should only be responsible for one thing
+-   There's a place for everything and everything is in its place
+-   Find one reason to change and take everything else out of the class
+-   Very precise names for many small classes > Generic names for large classes
+
+**Open/Closed:**
+-   An entity should be open for extension but closed for modification
+-   Extend functionality by adding new code instead of changing existing code
+-   Separate the behaviors, so the system can easily be executed but never broken
+-   Real goal: Get to a point where you can never break the core of your system
+
+
+**Liskov Substitution Principal:**
+-   Any derived class should be able to substitute its parent class without the consumer knowing it
+-   Every class that implements an interface, must be able to substitute any reference throughout the code that implements that same interface.
+-   Every part of the code should get the expected result no matter what instance of a class you send to it, given it implements the same interface.
+
+**Interface segregation:**
+-   No client should be forced to depend on methods it does not use
+-   A client should never depend on anything more than the method it's calling
+-   Changing one method in a class shouldn't affect classes that don't depend on it
+-   Replace fat interfaces with many small, specific intergaces
+
+**Dependency inversion:**
+-   High level modules should not depend on low level modules. Both should depend on abstractions
+-   Able to change an implementation easily without altering the high level code
+
+
+**Don't try to achieve SOLID, use SOLID to achieve maintainability**
+
+
+
 ##  Architecture
 
 -   Architecture: we can see the intend of the system.
