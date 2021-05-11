@@ -23,4 +23,4 @@ There are drawbacks to using an event driven architecture as well.
 
 - Modular monolithic [https://www.youtube.com/watch?v=5OjqD-ow8GE]
 - The lost of art software design [https://www.youtube.com/watch?v=qO73yObPYac]
-
+- Evolving a Clean, Pragmatic Architecture [https://www.youtube.com/watch?v=tMHO7_RLxgQ&t=1444s]
