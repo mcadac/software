@@ -26,6 +26,9 @@ Reactive:
 Patterns:
 - Let it crash: https://dzone.com/articles/increasing-system-robustness
 
+## Agile, Teams, and Management
+1. Putting XP in Scrum: https://www.youtube.com/watch?v=JtvSp3BPG8I
+
 ## References
 - https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
 - Domain-oriented-observability: https://martinfowler.com/articles/domain-oriented-observability.html
